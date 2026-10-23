@@ -33,7 +33,7 @@ jobs:
       - name: Start local app server
         run: |
           bunx vite preview --host 127.0.0.1 --port 4173 > /tmp/dna-preview.log 2>&1 &
-          for i in {1..40}; do
+          for i in $(seq 1 40); do
             if curl -fsS http://127.0.0.1:4173/dna-explorer-pro/ > /dev/null; then exit 0; fi
             sleep 2
           done
