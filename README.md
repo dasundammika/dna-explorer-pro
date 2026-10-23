@@ -11,12 +11,6 @@ DNA Explorer Pro is an interactive, browser-based molecular visualization and ed
 > **Release status: v0.1.0 preview / educational prototype.** It is not a validated molecular dynamics engine, clinical tool, or substitute for experimental structural analysis. Some molecular and process views are idealized or schematic.
 
 
-## Actual application screenshot
-
-![Actual DNA Explorer Pro interactive interface](docs/dna-explorer-preview.png)
-
-*Screenshot of the educational app interface; zoom in to examine the viewer and inspectors.*
-
 ## Features
 
 - 🧬 Interactive Three.js DNA viewer with orbit, zoom, selection and camera controls
