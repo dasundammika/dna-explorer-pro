@@ -1,0 +1,6 @@
+{
+  "name": "DNA Explorer Pro",
+  "description": "Explore Life at the Molecular Scale — Advanced Interactive 3D Molecular Biology & DNA Research Laboratory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
