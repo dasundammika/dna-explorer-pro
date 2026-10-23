@@ -2,9 +2,9 @@
 
 **Interactive 3D DNA and molecular biology learning laboratory** — explore life at the molecular scale.
 
-![DNA Explorer Pro — illustrative cover artwork](docs/dna-explorer-hero.webp)
+![DNA Explorer Pro — enhanced molecular laboratory interface preview](docs/dna-explorer-interface-updated.webp)
 
-*Cover illustration (not a screenshot or atomically validated molecular structure).*
+*Enhanced visual presentation based on the application interface; the actual running app may differ slightly. Molecular structures shown are educational models.*
 
 DNA Explorer Pro is an interactive, browser-based molecular visualization and education project built with **React, TypeScript, Three.js, Zustand, Vite and Tailwind CSS**. It combines a schematic B-DNA molecular viewer, sequence analysis, and explorations of DNA processes with accessible **English and Sinhala + English** scientific explanations.
 
