@@ -1,0 +1,12 @@
+DNA Explorer Pro — launch draft (replace URL placeholders before posting)
+
+🧬 I built DNA Explorer Pro, an interactive 3D DNA learning lab using Three.js + React.
+
+Explore B-DNA geometry, base pairing, sequences, structural views, and educational replication/transcription concepts — with Sinhala + English learning content.
+
+Free & open source (preview release). I’d welcome scientific feedback, issues, and contributions!
+
+🔬 Live demo: [PASTE_PUBLIC_LIVE_URL]
+💻 GitHub: [PASTE_PUBLIC_REPOSITORY_URL]
+
+#ThreeJS #MolecularBiology #OpenSource
