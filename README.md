@@ -2,11 +2,20 @@
 
 **Interactive 3D DNA and molecular biology learning laboratory** — explore life at the molecular scale.
 
-![DNA Explorer Pro application preview](docs/dna-explorer-preview.png)
+![DNA Explorer Pro — illustrative cover artwork](docs/dna-explorer-hero.webp)
+
+*Cover illustration (not a screenshot or atomically validated molecular structure).*
 
 DNA Explorer Pro is an interactive, browser-based molecular visualization and education project built with **React, TypeScript, Three.js, Zustand, Vite and Tailwind CSS**. It combines a schematic B-DNA molecular viewer, sequence analysis, and explorations of DNA processes with accessible **English and Sinhala + English** scientific explanations.
 
 > **Release status: v0.1.0 preview / educational prototype.** It is not a validated molecular dynamics engine, clinical tool, or substitute for experimental structural analysis. Some molecular and process views are idealized or schematic.
+
+
+## Actual application screenshot
+
+![Actual DNA Explorer Pro interactive interface](docs/dna-explorer-preview.png)
+
+*Screenshot of the educational app interface; zoom in to examine the viewer and inspectors.*
 
 ## Features
 
@@ -92,6 +101,11 @@ Issues, feedback, documentation fixes, performance improvements and contribution
 ## License
 
 Licensed under the **Apache License, Version 2.0**; see [LICENSE](LICENSE). This release retains the existing Apache-2.0 SPDX headers in the project and includes the full license text. Respect third-party dependency and asset licenses.
+
+
+## AI-assisted development
+
+DNA Explorer Pro was developed with **Google AI Studio and Gemini 4 Argon** as AI-assisted software-building tools, alongside human-directed project design, testing, and open-source release preparation. This is an **independent community project**, not an official Google product or an endorsement by Google.
 
 ## Credits
 
