@@ -31,6 +31,8 @@ jobs:
       - name: Install FFmpeg
         run: apt-get update -qq && apt-get install -y -qq ffmpeg >/dev/null
       - name: Start local app server
+        env:
+          VITE_BASE_PATH: /dna-explorer-pro/
         run: |
           bunx vite preview --host 127.0.0.1 --port 4173 > /tmp/dna-preview.log 2>&1 &
           for i in $(seq 1 40); do
